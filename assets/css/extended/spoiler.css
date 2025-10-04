@@ -1,0 +1,15 @@
+.spoiler {
+    background: #ccc;
+    color: transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: color 0.2s;
+    user-select: none;
+    filter: blur(4px);
+}
+
+.spoiler.revealed {
+    color: #000;
+    background: none;
+    filter: none;
+}
