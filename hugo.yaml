@@ -3,7 +3,7 @@ module:
     - path: "github.com/adityatelange/hugo-PaperMod"
 
 baseURL: "http://localhost"
-title: ExampleSite
+title: Observations and reflections
 pagination:
   pagerSize: 5
 
@@ -61,7 +61,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Observations and reflections
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
